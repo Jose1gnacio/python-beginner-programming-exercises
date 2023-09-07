@@ -1,5 +1,5 @@
 def start_counting():
-	for i in range(0,12):
+	for i in range(10):
 		print(i)
 	return i
 
